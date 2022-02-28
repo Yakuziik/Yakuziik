@@ -1,5 +1,5 @@
-👋 Hi, I’m @Yakuziik
-🌱 I'm currently workin on learning my first language... (Python)
-💞️ If you want to help clueless guy with Python hit me up on discord Yakuzi#2738
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/batman-applause-clapping-D3AK4EgmCnsvC" width="100"/>
+</div>
 
 [CROWS DISCORD](https://discord.gg/crows)
