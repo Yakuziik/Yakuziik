@@ -1,7 +1,9 @@
 <p>Hi! My name is Yakuzi and this is my portfolio.<p>
 <p>❤️I am sometimes trying to code just for fun... Just a hobby<p>
   <p>Pokud znáš Undertale, tak pracuji na jeho překladu<p>
-   <p> [Undertale překlad discord](https://www.google.com)<p>
+    [Undertale překlad discord](https://discord.gg/PsVvPYqFWS)
+    
+    [My website](https://kunai.xyz)
 
 
      
